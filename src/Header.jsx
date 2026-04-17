@@ -5,7 +5,7 @@ const Header = () => (
     padding: '20px 10%', 
     borderBottom: '2px solid #8c0707', 
     display: 'flex', 
-    justify-content: space-between, 
+    justifyContent: 'space-between', 
     alignItems: 'center',
     backgroundColor: '#000'
   }}>
